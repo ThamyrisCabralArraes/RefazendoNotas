@@ -1,0 +1,82 @@
+bode {
+  border: 1px solid royalblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#topo {
+  width: auto;
+  height: 200px;
+  margin: auto;
+  margin-top: 40px;
+  background-color: rgb(238, 81, 81);
+  box-shadow: 40px -16px teal;
+}
+.h1topo {
+  font-size: 60px;
+  color: #fff;
+  text-align: center;
+  margin: auto;
+  padding: 50px 70px;
+  text-shadow: black 0.1em 0.1em 0.1em
+}
+
+#cabecalho {
+  margin-left: 182px;
+}
+.pcabecalho {
+  font-size: 60px;
+  color:rgb(238, 81, 81);
+  font-weight: bold;
+  text-shadow: rgb(160, 160, 160) 0.1em 0.1em 0.2em;
+}
+
+#conteudo {
+  border-top: solid 8px rgb(238, 81, 81);
+  width: 1500px;
+  padding: 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#tabela {
+  padding-top: 5px;
+  font-size: 30px;
+}
+
+.subtabela {
+  background-color: rgb(238, 235, 235);
+}
+div#conteudo tr th {
+  width: 1500px;
+  padding: 20px;
+  text-shadow: rgb(160, 160, 160) 0.1em 0.1em 0.1em
+}
+div#conteudo tr td {
+  width: 1500px;
+  padding: 20px;
+  font-weight: 500;
+}
+
+
+footer {
+  background-color: cadetblue;
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.footer {
+  text-align: center;
+  padding: 3px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.reproved {
+  color: red
+}
+
+.aproved {
+  color: green
+}
